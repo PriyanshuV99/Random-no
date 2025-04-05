@@ -1,4 +1,4 @@
-Random Number Generator in Java
+# Random Number Generator in Java
 
 This Java program generates random numbers using the built-in java.util.Random class. It’s a great starting point for beginners learning about randomness, control flow, and basic Java syntax.
 
